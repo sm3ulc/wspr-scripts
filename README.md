@@ -8,9 +8,9 @@ These are scripts for running wspr on rtl-dongles and SDRPlay.
 
 	apt-get install imagemagic sox curl 
 
-##The DSP-parts uses csdr which be found here
+##The DSP-parts u  ses csdr which be found here
 
-    csdr - https://github.com/simonyiszk/csdr
+    csdr - https://rtgithub.com/simonyiszk/csdr
 
 ##For the RTL-SDR dongles:
 
